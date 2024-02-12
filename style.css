@@ -1,0 +1,7 @@
+body {
+    /* background-color: aqua; */
+    background-image: url("paper.jpg");
+    background-repeat: repeat;
+    /* background-position: right top; */
+    background-attachment: scroll;
+}
